@@ -6,7 +6,7 @@ Visualisasi ini membantu melihat total revenue, tren penjualan bulanan, produk t
 ---
 
 ## 🖼 Preview
-![Dashboard Coffe Shop Sales](dashboard-preview.png)
+![Dashboard Coffe Shop Sales](Dashboard Coffe Shop Sales.png)
 
 ---
 
