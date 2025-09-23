@@ -6,13 +6,13 @@ Visualisasi ini membantu melihat total revenue, tren penjualan bulanan, produk t
 ---
 
 ## 🖼 Preview
-![Dashboard Coffe Shop Sales](Dashboard Coffe Shop Sales.png)
+![Dashboard Coffe Shop Sales](Dashboard%20Coffe%20Shop%20Sales.png)
 
 ---
 
 ## 🔗 Link
-- [File Power BI (.pbix)](link-pbix)
-- [Dashboard Interaktif (Publish to Web)](link-dashboard)
+- [File Power BI (.pbix)](Penjualan%20Coffe%20Shop.pbix)
+
 
 ---
 
